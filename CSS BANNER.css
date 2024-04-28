@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+#green{
+    color: rgb(57, 248, 66);
+}
+#red{
+    color: rgb(245, 40, 40);
+}
+#good{
+    background-color: antiquewhite;
+    border: 5px solid rgb(1, 3, 131);
+    color: rgb(1, 107, 17);
+    border-width: 1cap;
+    font-family: "Permanent Marker";
+}
+#bad{
+    background-color: antiquewhite;
+    border: 5px Solid rgb(227, 235, 20);
+    color: rgb(94, 1, 1);
+    border-width: 1cap;
+    font-family: Ultra;
+}
